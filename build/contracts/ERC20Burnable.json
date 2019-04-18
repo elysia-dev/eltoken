@@ -1027,7 +1027,7 @@
   },
   "networks": {},
   "schemaVersion": "3.0.2",
-  "updatedAt": "2019-04-11T08:49:19.684Z",
+  "updatedAt": "2019-04-12T13:14:56.463Z",
   "devdoc": {
     "details": "Token that can be irreversibly burned (destroyed).",
     "methods": {
